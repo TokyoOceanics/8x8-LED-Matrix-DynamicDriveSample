@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tom-1588b-g-r-FakeVersion")(type "KiCad")(uri "${KIPRJMOD}/tom-1588b-g-r-FakeVersion.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+)
